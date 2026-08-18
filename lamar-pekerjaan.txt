@@ -2,6 +2,9 @@ MELAMAR PEKERJAAN SECARA REMOTE
 - linkedin
   - bikin profile
   - bikin cv
+    - profile
+    - pendidikan
+    - pengalaman
 - myproject
 - upwork
 - jobs
